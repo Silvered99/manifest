@@ -35,8 +35,8 @@ Recommended to use repopick.
 ### wifi module
 - 198953
 - 200156
-### fbe
-- 200157
-### kernel cam
-- 200193
+
+
+
+
 -----
