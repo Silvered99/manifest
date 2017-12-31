@@ -14,7 +14,7 @@
     <!-- Vendor -->
     <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="lineage-15.1" />
     
-    <!-- Trebuchet -->
-    <remove-project path="packages/apps/Trebuchet" name="LineageOS/android_packages_apps_Trebuchet" />
-    <project path="packages/apps/Trebuchet" name="jrizzoli/bug-free-bassoon" revision="staging/clean" />
+
+
+ 
 </manifest>
