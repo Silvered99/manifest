@@ -39,11 +39,6 @@ Recommended to use repopick.
 - 200940
 ### selinux
 - 200730
-### cas
-- 200941
-### profiles
-- 200943
-- 200944
 ### audio
 - 200638
 - 200639
@@ -81,16 +76,15 @@ repopick 198617
 repopick 198614
 repopick 198619
 
-repopick 200940
-repopick 200730
-repopick 200941
-repopick 200943
-repopick 200944
-repopick 200638
-repopick 200639
-
 # optional
 repopick 198956 #sdclang
+
+repopick 200940
+
+repopick 200730
+
+repopick 200638
+repopick 200639
 ```
 
 
