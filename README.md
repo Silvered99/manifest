@@ -35,14 +35,6 @@ Recommended to use repopick.
 ### optional
 - 198956 (sdclang)
 -----
-### ipa
-- 200940
-### selinux
-- 200730
-### audio
-- 200638
-- 200639
------
 
 ## repopick
 
@@ -78,13 +70,6 @@ repopick 198619
 
 # optional
 repopick 198956 #sdclang
-
-repopick 200940
-
-repopick 200730
-
-repopick 200638
-repopick 200639
 ```
 
 
