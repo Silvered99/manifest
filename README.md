@@ -28,10 +28,6 @@ Recommended to use repopick.
 - 200035
 ### interfaces camera
 - 200040
-### lineage qcom
-- 198617
-- 198614
-- 198619
 ### optional
 - 198956 (sdclang)
 -----
@@ -63,10 +59,6 @@ repopick 198950
 repopick 200035
 
 repopick 200040
-
-repopick 198617
-repopick 198614
-repopick 198619
 
 # optional
 repopick 198956 #sdclang
