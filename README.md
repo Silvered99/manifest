@@ -3,12 +3,12 @@
 Recommended to use repopick.
 
 -----
-### ant
-- 199506
 ### nfc
 - 198050
-### tinycompress
-- 199120
+### av camera
+- 200035
+### interfaces camera
+- 200040
 ### qcom sepol
 - 198303
 - 198620
@@ -22,12 +22,6 @@ Recommended to use repopick.
 - 199565
 - 199554
 - 199600
-### base nsrm
-- 198950
-### av camera
-- 200035
-### interfaces camera
-- 200040
 ### optional
 - 198956 (sdclang)
 -----
@@ -35,11 +29,11 @@ Recommended to use repopick.
 ## repopick
 
 ```
-repopick 199506
-
 repopick 198050
 
-repopick 199120
+repopick 200035
+
+repopick 200040
 
 repopick 198303
 repopick 198620
@@ -53,12 +47,6 @@ repopick 199564
 repopick 199565
 repopick 199554
 repopick 199600
-
-repopick 198950
-
-repopick 200035
-
-repopick 200040
 
 # optional
 repopick 198956 #sdclang
